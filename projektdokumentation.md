@@ -46,8 +46,10 @@
 | 2    |                 |      | Als ein Administrator möchte ich in der Lage sein, Phrasen und Rätselwörter hinzuzufügen, damit ich sie bearbeiten und löschen kann.|
 | 3    |                 |      | Als ein Administrator möchte ich Kategorien erstellen und jedes Wort oder jede Frage einer Kategorie zuweisen können, damit ich die Inhalte der App strukturieren kann. |
 | 4    |                 |      | Als ein Administrator möchte ich einzelne Einträge in der Highscore-Liste entfernen können, damit ich Übersicht habe. |
-| 5    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| 6    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| 5    |                 |      | Als Benutzer möchte ich meinen Namen eingeben können, der auf der Highscore-Liste erscheint, damit ich meinen Score teilen kann. |
+| 6    |                 |      | Als Benutzer möchte ich meinen Kontostand zu jeder Zeit sehen, damit ich weiss wieviel mein Kontostand beträgt. |
+| 7    |                 |      | Als Benutzer möchte ich meine Lebenspunkte zu jeder Zeit sehen, damit ich immer über meinen Lebenspunkte informiert bin. |
+| 7    |                 |      | Als Benutzer möchte ich erfahren, ob meine gewählte Antwort richtig oder falsch war, damit ich meine Leistung im Spiel einschätzen kann |
 | 7    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
 
 
