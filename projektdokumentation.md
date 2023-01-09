@@ -42,19 +42,19 @@ Kaba
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
 | 0    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| 1  |                 |      | Als ein Administrator möchte ich mich mit Benutzername und Passwort anmelden, damit ich Zugriff auf die Administrationsoberfläche habe.|
-| 2    |                 |      | Als ein Administrator möchte ich in der Lage sein, Phrasen und Rätselwörter hinzuzufügen, damit ich sie bearbeiten und löschen kann.|
-| 3    |                 |      | Als ein Administrator möchte ich Kategorien erstellen und jedes Wort oder jede Frage einer Kategorie zuweisen können, damit ich die Inhalte der App strukturieren kann. |
-| 4    |                 |      | Als ein Administrator möchte ich einzelne Einträge in der Highscore-Liste entfernen können, damit ich Übersicht habe. |
-| 5    |                 |      | Als Benutzer möchte ich meinen Namen eingeben können, der auf der Highscore-Liste erscheint, damit ich meinen Score teilen kann. |
-| 6    |                 |      | Als Benutzer möchte ich meinen Kontostand zu jeder Zeit sehen, damit ich weiss wieviel mein Kontostand beträgt. |
-| 7    |                 |      | Als Benutzer möchte ich meine Lebenspunkte zu jeder Zeit sehen, damit ich immer über meinen Lebenspunkte informiert bin. |
-| 8   |                 |      | Als Benutzer möchte ich erfahren, ob meine gewählte Antwort richtig oder falsch war, damit ich meine Leistung im Spiel einschätzen kann |
-| 9    |                 |      |  Als Benutzer möchte ich in der Highscore-Liste den Rang, den Namen des Spielers, den Zeitpunkt des Spiels, den Geldbetrag und die Anzahl der Spielrunden sehen, damit ich eine Übersicht über das Spiel habe. |
-| 10    |                 |      | Als Benutzer möchte ich die Highscore-Liste nach Rang, der durch die Höhe des Geldbetrags bestimmt wird, aufsteigend sortiert sehen, damit ich die besten Spieler gleich sehen kann. |
-| 11    |                 |      | Als Entwickler möchte ich sicherstellen, dass alle Formulareingaben auf der Client- und Serverseite validiert werden, damit ich sicher sein kann, dass die Anwendung fehlerfrei funktioniert. |
-| 12   |                 |      | Als Entwickler möchte ich Transaktionsmanagement verwenden, damit ich sicherstellen kann, dass alle Datenbankoperationen fehlerfrei ausgeführt werden und im Falle eines Fehlers rückgängig gemacht werden können. |
-| 13   |                 |      | Als Entwickler möchte ich, dass Sicherheitsaspekte berücksichtigt werden, damit ich sicher sein kann, dass die Anwendung und die verarbeiteten Daten sicher sind. |
+| 1  | Muss                | Funktional     | Als ein Administrator möchte ich mich mit Benutzername und Passwort anmelden, damit ich Zugriff auf die Administrationsoberfläche habe.|
+| 2    | Kann                | Funktional     | Als ein Administrator möchte ich in der Lage sein, Phrasen und Rätselwörter hinzuzufügen, damit ich sie bearbeiten und löschen kann.|
+| 3    | Muss                | Funktional     | Als ein Administrator möchte ich Kategorien erstellen und jedes Wort oder jede Frage einer Kategorie zuweisen können, damit ich die Inhalte der App strukturieren kann. |
+| 4    | Muss                | Funktional     | Als ein Administrator möchte ich einzelne Einträge in der Highscore-Liste entfernen können, damit ich Übersicht habe. |
+| 5    | Kann                | Funktional     | Als Benutzer möchte ich meinen Namen eingeben können, der auf der Highscore-Liste erscheint, damit ich meinen Score teilen kann. |
+| 6    | Muss                | Funktional     | Als Benutzer möchte ich meinen Kontostand zu jeder Zeit sehen, damit ich weiss wieviel mein Kontostand beträgt. |
+| 7    | Muss                | Funktional     | Als Benutzer möchte ich meine Lebenspunkte zu jeder Zeit sehen, damit ich immer über meinen Lebenspunkte informiert bin. |
+| 8   | Muss                | Funktional     | Als Benutzer möchte ich erfahren, ob meine gewählte Antwort richtig oder falsch war, damit ich meine Leistung im Spiel einschätzen kann |
+| 9    | Kann                | Funktional     |  Als Benutzer möchte ich in der Highscore-Liste den Rang, den Namen des Spielers, den Zeitpunkt des Spiels, den Geldbetrag und die Anzahl der Spielrunden sehen, damit ich eine Übersicht über das Spiel habe. |
+| 10    | Kann                | Funktional     | Als Benutzer möchte ich die Highscore-Liste nach Rang, der durch die Höhe des Geldbetrags bestimmt wird, aufsteigend sortiert sehen, damit ich die besten Spieler gleich sehen kann. |
+| 11    | Muss                | Qualität     | Als Entwickler möchte ich sicherstellen, dass alle Formulareingaben auf der Client- und Serverseite validiert werden, damit ich sicher sein kann, dass die Anwendung fehlerfrei funktioniert. |
+| 12   | Muss                | Qualität     | Als Entwickler möchte ich Transaktionsmanagement verwenden, damit ich sicherstellen kann, dass alle Datenbankoperationen fehlerfrei ausgeführt werden und im Falle eines Fehlers rückgängig gemacht werden können. |
+| 13   | Muss                | Qualität     | Als Entwickler möchte ich, dass Sicherheitsaspekte berücksichtigt werden, damit ich sicher sein kann, dass die Anwendung und die verarbeiteten Daten sicher sind. |
 | 14   |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
 | 15   |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
 
