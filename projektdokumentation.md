@@ -51,9 +51,9 @@ Kaba
 | 7    |                 |      | Als Benutzer möchte ich meine Lebenspunkte zu jeder Zeit sehen, damit ich immer über meinen Lebenspunkte informiert bin. |
 | 8   |                 |      | Als Benutzer möchte ich erfahren, ob meine gewählte Antwort richtig oder falsch war, damit ich meine Leistung im Spiel einschätzen kann |
 | 9    |                 |      |  Als Benutzer möchte ich in der Highscore-Liste den Rang, den Namen des Spielers, den Zeitpunkt des Spiels, den Geldbetrag und die Anzahl der Spielrunden sehen, damit ich eine Übersicht über das Spiel habe. |
-| 9    |                 |      | Als Benutzer möchte ich die Highscore-Liste nach Rang, der durch die Höhe des Geldbetrags bestimmt wird, aufsteigend sortiert sehen, damit ich die besten Spieler gleich sehen kann. |
-| 9    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| 9    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| 10    |                 |      | Als Benutzer möchte ich die Highscore-Liste nach Rang, der durch die Höhe des Geldbetrags bestimmt wird, aufsteigend sortiert sehen, damit ich die besten Spieler gleich sehen kann. |
+| 11    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| 12   |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
