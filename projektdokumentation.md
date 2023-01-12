@@ -78,7 +78,8 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 
 # 5 Prototyp
 
-✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
+![image](https://user-images.githubusercontent.com/69577050/212021681-5fc02cbb-a183-4856-92e9-a9ce384eb721.png)
+
 
 # 6 Implementation
 
