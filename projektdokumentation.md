@@ -28,13 +28,13 @@ Kaba
 # 2 Technologie
 
 * Tier 1: HTML & CSS für die grafische Darstellung der Anwendung.
-* Tier 2:
-* Tier 3:
+* Tier 2: ASP. NET
+* Tier 3: ASP .NET
 * Tier 4: MySQL um Daten zu speichern und zu verwalten. 
 
 # 3 Datenbank
 
-✍️ Wie steuern Sie Ihre Datenbank an? Wie ist das Interface aufgebaut? 
+Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit der Datenbank zu interagieren und SQL-Abfragen auszuführen.
 
 # 4.1 User Stories
 
