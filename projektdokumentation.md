@@ -66,12 +66,12 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |  Benutzer gibt Benutzername und Passwort ein |  Erfolgreiche Anmeldung und Zugriff auf die Administrationsoberfläche     |
-| ...  |              | Neue Kategorie wird erstellt      |   Erfolgreiche Erstellung der Kategorie                 |
-| ...  |              |  Highscore Eintrag mit dem Namen "xxx" zum Entfernen       |     Erfolgreiche Entfernung des Eintrags mit dem Namen "xxx" aus der Highscore-Liste.      |
-| ...  |              | Anmeldung mit Benutzername "  " und Passwort "  "     |     Erfolgreiche Anmeldung und Anzeige des Kontostands "  "              |
-| ...  |              | Anmeldung mit Benutzername "  " und Passwort "  "           |  Erfolgreiche Anmeldung und Anzeige der Lebenspunkte  "  "      |
-| ...  |              | Eine Antwort mit richtig oder falsch beantworten        |  Ergebnis von gewählter Antwort wird angezeigt.             |
+| 1.1  |        Programm ist gestartet      |  Benutzer gibt Benutzername und Passwort ein |  Erfolgreiche Anmeldung und Zugriff auf die Administrationsoberfläche     |
+| ...  |   Benutzer muss angemeldet sein           | Neue Kategorie wird erstellt      |   Erfolgreiche Erstellung der Kategorie                 |
+| ...  |       Benutzer muss angemeldet sein       |  Highscore Eintrag mit dem Namen "xxx" zum Entfernen       |     Erfolgreiche Entfernung des Eintrags mit dem Namen "xxx" aus der Highscore-Liste.      |
+| ...  |      Benutzer muss angemeldet sein        | Anmeldung mit Benutzername "  " und Passwort "  "     |     Erfolgreiche Anmeldung und Anzeige des Kontostands "  "              |
+| ...  |       Benutzer muss angemeldet sein       | Anmeldung mit Benutzername "  " und Passwort "  "           |  Erfolgreiche Anmeldung und Anzeige der Lebenspunkte  "  "      |
+| ...  |        Benutzer muss angemeldet sein      | Eine Antwort mit richtig oder falsch beantworten        |  Ergebnis von gewählter Antwort wird angezeigt.             |
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
