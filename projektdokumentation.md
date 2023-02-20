@@ -72,6 +72,9 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 | ...  |      Benutzer muss angemeldet sein        | Anmeldung mit Benutzername "  " und Passwort "  "     |     Erfolgreiche Anmeldung und Anzeige des Kontostands "  "              |
 | ...  |       Benutzer muss angemeldet sein       | Anmeldung mit Benutzername "  " und Passwort "  "           |  Erfolgreiche Anmeldung und Anzeige der Lebenspunkte  "  "      |
 | ...  |        Benutzer muss angemeldet sein      | Eine Antwort mit richtig oder falsch beantworten        |  Ergebnis von gewählter Antwort wird angezeigt.             |
+| ...  |        Benutzer muss angemeldet sein      | Der Benutzer hat einen Kontostand von 250      |   "Münzen: 250"            |
+| ...  |        Benutzer muss angemeldet sein      | Der Benutzer hat 3 Lebenspunkte     |   "Leben: 3"            |
+
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
