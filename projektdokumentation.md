@@ -4,9 +4,9 @@ Kaba
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | 0.0.2   |                                                              |
-|       | 0.0.3   |                                                              |
+|  12.01.2023	     | 0.0.1   | Projekt beschrieben, Technologie und Datenbank ausgewählt. USer Stories erstellt und zu den User Stories Testfälle erstellt. GUI-Prototypen erstellt. |
+| 08.02.2023	    | 0.0.2   |  Projekt erstellt, Beanklasse erstellt und mit Programmieren begonnen                         |
+|  15.02.2023     | 0.0.3   |  Funktion des Spiels funktioniert halbwegs, Münuzen (Geld) wird angezeigt, anzahl Leben ist zu sehen und Random "Wort" wird generiet, welches erraten werden kann.                                                         |
 |       | 0.0.4   |                                                              |
 |       | 0.0.5   |                                                              |
 |       | 0.0.6   |                                                              |
@@ -14,7 +14,7 @@ Kaba
 
 # 0 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Ich werde eine Glücksrad-Applikation erstellen, bei der der Benutzer Wörter oder Redewendungen in einem Gitter erraten muss. Bevor ich mit dem Rätseln beginne, wird mir eine Kategorie genannt. Um Geldbeträge zu erspielen, drehe der Benutzer am Glücksrad und erratet das jeweilige Wort. In der Applikation wird das Glücksrad durch eine Text-Ausgabe simuliert.
 
 # 1 Analyse
 
@@ -28,8 +28,8 @@ Kaba
 # 2 Technologie
 
 * Tier 1: HTML & CSS für die grafische Darstellung der Anwendung.
-* Tier 2: ASP. NET
-* Tier 3: ASP .NET
+* Tier 2: JSF
+* Tier 3: JSF
 * Tier 4: MySQL um Daten zu speichern und zu verwalten. 
 
 # 3 Datenbank
