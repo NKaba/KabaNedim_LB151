@@ -67,13 +67,13 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |        Programm ist gestartet      |  Benutzer gibt Benutzername und Passwort ein |  Erfolgreiche Anmeldung und Zugriff auf die Administrationsoberfläche     |
-| ...  |   Benutzer muss angemeldet sein           | Neue Kategorie wird erstellt      |   Erfolgreiche Erstellung der Kategorie                 |
-| ...  |       Benutzer muss angemeldet sein       |  Highscore Eintrag mit dem Namen "xxx" zum Entfernen       |     Erfolgreiche Entfernung des Eintrags mit dem Namen "xxx" aus der Highscore-Liste.      |
-| ...  |      Benutzer muss angemeldet sein        | Anmeldung mit Benutzername "  " und Passwort "  "     |     Erfolgreiche Anmeldung und Anzeige des Kontostands "  "              |
-| ...  |       Benutzer muss angemeldet sein       | Anmeldung mit Benutzername "  " und Passwort "  "           |  Erfolgreiche Anmeldung und Anzeige der Lebenspunkte  "  "      |
-| ...  |        Benutzer muss angemeldet sein      | Eine Antwort mit richtig oder falsch beantworten        |  Ergebnis von gewählter Antwort wird angezeigt.             |
-| ...  |        Benutzer muss angemeldet sein      | Der Benutzer hat einen Kontostand von 250      |   "Münzen: 250"            |
-| ...  |        Benutzer muss angemeldet sein      | Der Benutzer hat 3 Lebenspunkte     |   "Leben: 3"            |
+| ...  |   Benutzer muss Spiel starten           | Neue Kategorie wird erstellt      |   Erfolgreiche Erstellung der Kategorie                 |
+| ...  |      Benutzer muss Spiel starten       |  Highscore Eintrag mit dem Namen "xxx" zum Entfernen       |     Erfolgreiche Entfernung des Eintrags mit dem Namen "xxx" aus der Highscore-Liste.      |
+| ...  |      Benutzer muss Spiel starten       | Anmeldung mit Benutzername "  " und Passwort "  "     |     Erfolgreiche Anmeldung und Anzeige des Kontostands "  "              |
+| ...  |       Benutzer muss Spiel starten       | Anmeldung mit Benutzername "  " und Passwort "  "           |  Erfolgreiche Anmeldung und Anzeige der Lebenspunkte  "  "      |
+| ...  |        Benutzer muss Spiel starten     | Eine Antwort mit richtig oder falsch beantworten        |  Ergebnis von gewählter Antwort wird angezeigt.             |
+| ...  |        Benutzer muss Spiel starten      | Der Benutzer hat einen Kontostand von 250      |   "Münzen: 250"            |
+| ...  |        Benutzer muss Spiel starten    | Der Benutzer hat 3 Lebenspunkte     |   "Leben: 3"            |
 
 
 
