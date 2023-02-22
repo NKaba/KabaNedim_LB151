@@ -57,7 +57,7 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 | 11    | Muss                | Qualität     | Als Entwickler möchte ich sicherstellen, dass alle Formulareingaben auf der Client- und Serverseite validiert werden, damit ich sicher sein kann, dass die Anwendung fehlerfrei funktioniert. |
 | 12   | Muss                | Qualität     | Als Entwickler möchte ich Transaktionsmanagement verwenden, damit ich sicherstellen kann, dass alle Datenbankoperationen fehlerfrei ausgeführt werden und im Falle eines Fehlers rückgängig gemacht werden können. |
 | 13   | Muss                | Qualität     | Als Entwickler möchte ich, dass Sicherheitsaspekte berücksichtigt werden, damit ich sicher sein kann, dass die Anwendung und die verarbeiteten Daten sicher sind. |
-| 14   |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| 14   |                 |      | Als ein Benutzer möchte ich Vokale kaufen können, damit ich das Wort einfacher erraten kann (Vokale kann man nicht eingeben ohne sie zu kaufen) |
 | 15   |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
@@ -74,6 +74,7 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 | ...  |        Benutzer muss Spiel starten     | Eine Antwort mit richtig oder falsch beantworten        |  Ergebnis von gewählter Antwort wird angezeigt.             |
 | ...  |        Benutzer muss Spiel starten      | Der Benutzer hat einen Kontostand von 250      |   "Münzen: 250"            |
 | ...  |        Benutzer muss Spiel starten    | Der Benutzer hat 3 Lebenspunkte     |   "Leben: 3"            |
+| 14  |        Benutzer muss Spiel starten    | Der Benutzer hat 100 Münzen und gibt ein Vokale ein     |   Vokal wird gekauft, Geldbetrag wird reduziert und Vokal ist beim Wort zu sehen.            |
 
 
 
