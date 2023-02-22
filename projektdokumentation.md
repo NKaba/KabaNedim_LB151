@@ -6,8 +6,8 @@ Kaba
 | ----- | ------- | ------------------------------------------------------------ |
 |  12.01.2023	     | 0.0.1   | Projekt beschrieben, Technologie und Datenbank ausgewählt. USer Stories erstellt und zu den User Stories Testfälle erstellt. GUI-Prototypen erstellt. |
 | 08.02.2023	    | 0.0.2   |  Projekt erstellt, Beanklasse erstellt und mit Programmieren begonnen                         |
-|  15.02.2023     | 0.0.3   |  Funktion des Spiels funktioniert halbwegs, Münuzen (Geld) wird angezeigt, anzahl Leben ist zu sehen und Random "Wort" wird generiet, welches erraten werden kann.                                                         |
-|       | 0.0.4   |                                                              |
+|  15.02.2023     | 0.0.3   |  Funktion des Spiels funktioniert halbwegs,  Franken (Geld) wird angezeigt, anzahl Leben ist zu sehen und Random "Wort" wird generiet, welches erraten werden kann. Login für Administrationsbereich                                                         |
+| 22.02.2023      | 0.0.4   |  Starseite erstellt, Design für alle Seiten gemacht                                            |
 |       | 0.0.5   |                                                              |
 |       | 0.0.6   |                                                              |
 |       | 1.0.0   |                                                              |
