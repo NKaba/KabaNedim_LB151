@@ -74,6 +74,7 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 | ...  |        Benutzer muss Spiel starten     | Eine Antwort mit richtig oder falsch beantworten        |  Ergebnis von gewählter Antwort wird angezeigt.             |
 | ...  |        Benutzer muss Spiel starten      | Der Benutzer hat einen Kontostand von 250      |   "Münzen: 250"            |
 | ...  |        Benutzer muss Spiel starten    | Der Benutzer hat 3 Lebenspunkte     |   "Leben: 3"            |
+| 13  |        Admin muss Spiel starten    | Admin meldet sich ab, nachdem er sich angemeldet hat. Admin gibt bei URL folgendes ein: http://localhost:8080/KabaNedim_LB151/faces/adminuebersicht.xhtml     |   Admin wird auf der Login Seite weitergeleitet und nicht auf der Adminuebersicht.xhtml Seite.             |
 | 14  |        Benutzer muss Spiel starten    | Der Benutzer hat 100 Münzen und gibt ein Vokale ein     |   Vokal wird gekauft, Geldbetrag wird reduziert und Vokal ist beim Wort zu sehen.            |
 
 
