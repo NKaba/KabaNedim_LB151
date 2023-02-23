@@ -58,7 +58,7 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 | 12   | Muss                | Qualität     | Als Entwickler möchte ich Transaktionsmanagement verwenden, damit ich sicherstellen kann, dass alle Datenbankoperationen fehlerfrei ausgeführt werden und im Falle eines Fehlers rückgängig gemacht werden können. |
 | 13   | Muss                | Qualität     | Als Entwickler möchte ich, dass Sicherheitsaspekte berücksichtigt werden, damit ich sicher sein kann, dass die Anwendung und die verarbeiteten Daten sicher sind. |
 | 14   |                 |      | Als ein Benutzer möchte ich Vokale kaufen können, damit ich das Wort einfacher erraten kann (Vokale kann man nicht eingeben ohne sie zu kaufen) |
-| 15   |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
+| 15   |                 |      | Als ein Entwickler möchte ich eine Startseite erstellen, damit der Benutzer eine gute Übersicht über die Applikation hat und frei auswählen kann was er tun möchte.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
@@ -76,6 +76,7 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 | ...  |        Benutzer muss Spiel starten    | Der Benutzer hat 3 Lebenspunkte     |   "Leben: 3"            |
 | 13  |        Admin muss Spiel starten    | Admin meldet sich ab, nachdem er sich angemeldet hat. Admin gibt bei URL folgendes ein: http://localhost:8080/KabaNedim_LB151/faces/adminuebersicht.xhtml     |   Admin wird auf der Login Seite weitergeleitet und nicht auf der Adminuebersicht.xhtml Seite.             |
 | 14  |        Benutzer muss Spiel starten    | Der Benutzer hat 100 Münzen und gibt ein Vokale ein     |   Vokal wird gekauft, Geldbetrag wird reduziert und Vokal ist beim Wort zu sehen.            |
+| 15  |        Benutzer muss Spiel starten    | Der Benutzer hat Spiel gestartet    |  Startseite wird geöffnet, mit 3 Buttons (Spiel, Adminübersicht und Highscore)       |
 
 
 
