@@ -57,8 +57,8 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 | 11    | Muss                | Qualität     | Als Entwickler möchte ich sicherstellen, dass alle Formulareingaben auf der Client- und Serverseite validiert werden, damit ich sicher sein kann, dass die Anwendung fehlerfrei funktioniert. |
 | 12   | Muss                | Qualität     | Als Entwickler möchte ich Transaktionsmanagement verwenden, damit ich sicherstellen kann, dass alle Datenbankoperationen fehlerfrei ausgeführt werden und im Falle eines Fehlers rückgängig gemacht werden können. |
 | 13   | Muss                | Qualität     | Als Entwickler möchte ich, dass Sicherheitsaspekte berücksichtigt werden, damit ich sicher sein kann, dass die Anwendung und die verarbeiteten Daten sicher sind. |
-| 14   |                 |      | Als ein Benutzer möchte ich Vokale kaufen können, damit ich das Wort einfacher erraten kann (Vokale kann man nicht eingeben ohne sie zu kaufen) |
-| 15   |                 |      | Als ein Entwickler möchte ich eine Startseite erstellen, damit der Benutzer eine gute Übersicht über die Applikation hat und frei auswählen kann was er tun möchte.|
+| 14   | Muss                | Funktional     | Als ein Benutzer möchte ich Vokale kaufen können, damit ich das Wort einfacher erraten kann (Vokale kann man nicht eingeben ohne sie zu kaufen) |
+| 15   |   Muss              |Funktional      | Als ein Entwickler möchte ich eine Startseite erstellen, damit der Benutzer eine gute Übersicht über die Applikation hat und frei auswählen kann was er tun möchte.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
