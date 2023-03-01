@@ -67,15 +67,15 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  |        Admin Startet Spiel    |  Admin gibt Benutzername und Passwort ein |  Erfolgreiche Anmeldung und Zugriff auf die Administrationsoberfläche     |
-| 3 |   Benutzer muss Spiel starten           | Neue Kategorie wird erstellt      |   Erfolgreiche Erstellung der Kategorie                 |
-| 4  |      Benutzer muss Spiel starten       |  Highscore Eintrag mit dem Namen "xxx" zum Entfernen       |     Erfolgreiche Entfernung des Eintrags mit dem Namen "xxx" aus der Highscore-Liste.      |
-| 5 |       Benutzer muss Spiel starten       | Spiel starten, name eingeben          |  Spiel wird gestartet und Anzeige der Lebenspunkte  "  "      |
-| 8  |        Benutzer muss Spiel starten     | Eine Antwort mit richtig oder falsch beantworten        |  Ergebnis von gewählter Antwort wird angezeigt, indem bei Falscher Antwort Lebenspunkt abgezogen wird und bei richtige Antwort +50 Franken dazu kommen.            |
-| 6 |        Benutzer muss Spiel starten      | Der Benutzer hat einen Kontostand von 250      |   "Münzen: 250"            |
-| 7  |        Benutzer muss Spiel starten    | Der Benutzer hat 3 Lebenspunkte     |   "Leben: 3"            |
-| 13  |        Admin muss Spiel starten    | Admin meldet sich ab, nachdem er sich angemeldet hat. Admin gibt bei URL folgendes ein: http://localhost:8080/KabaNedim_LB151/faces/adminuebersicht.xhtml     |   Admin wird auf der Login Seite weitergeleitet und nicht auf der Adminuebersicht.xhtml Seite.             |
-| 14  |        Benutzer muss Spiel starten    | Der Benutzer hat 100 Münzen und gibt ein Vokale ein     |   Vokal wird gekauft, Geldbetrag wird reduziert und Vokal ist beim Wort zu sehen.            |
-| 15  |        Benutzer muss Spiel starten    | Der Benutzer hat Spiel gestartet    |  Startseite wird geöffnet, mit 3 Buttons (Spiel, Adminübersicht und Highscore)       |
+| 3.2 |   Benutzer muss Spiel starten           | Neue Kategorie wird erstellt      |   Erfolgreiche Erstellung der Kategorie                 |
+| 4.3  |      Benutzer muss Spiel starten       |  Highscore Eintrag mit dem Namen "xxx" zum Entfernen       |     Erfolgreiche Entfernung des Eintrags mit dem Namen "xxx" aus der Highscore-Liste.      |
+| 5.4 |       Benutzer muss Spiel starten       | Spiel starten, name eingeben          |  Spiel wird gestartet und Anzeige der Lebenspunkte  "  "      |
+| 8.5  |        Benutzer muss Spiel starten     | Eine Antwort mit richtig oder falsch beantworten        |  Ergebnis von gewählter Antwort wird angezeigt, indem bei Falscher Antwort Lebenspunkt abgezogen wird und bei richtige Antwort +50 Franken dazu kommen.            |
+| 6.6 |        Benutzer muss Spiel starten      | Der Benutzer hat einen Kontostand von 250      |   "Münzen: 250"            |
+| 7.7  |        Benutzer muss Spiel starten    | Der Benutzer hat 3 Lebenspunkte     |   "Leben: 3"            |
+| 13.8  |        Admin muss Spiel starten    | Admin meldet sich ab, nachdem er sich angemeldet hat. Admin gibt bei URL folgendes ein: http://localhost:8080/KabaNedim_LB151/faces/adminuebersicht.xhtml     |   Admin wird auf der Login Seite weitergeleitet und nicht auf der Adminuebersicht.xhtml Seite.             |
+| 14.9  |        Benutzer muss Spiel starten    | Der Benutzer hat 100 Münzen und gibt ein Vokale ein     |   Vokal wird gekauft, Geldbetrag wird reduziert und Vokal ist beim Wort zu sehen.            |
+| 15.10  |        Benutzer muss Spiel starten    | Der Benutzer hat Spiel gestartet    |  Startseite wird geöffnet, mit 3 Buttons (Spiel, Adminübersicht und Highscore)       |
 
 
 
@@ -107,8 +107,16 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+| 1.1.1  |       |          |        |
+| 3.2.2 |       |          |        |
+| 4.3.3|       |          |        |
+| 5.4.4  |       |          |        |
+| 8.5.5 |       |          |        |
+| 6.6.6  |       |          |        |
+| 7.7.7  |       |          |        |
+| 13.8.8 |       |          |        |
+| 14.9.9  |       |          |        |
+| 15.10.10  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
