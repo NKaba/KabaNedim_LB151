@@ -8,7 +8,7 @@ Kaba
 | 08.02.2023	    | 0.0.2   |  Projekt erstellt, Beanklasse erstellt und mit Programmieren begonnen                         |
 |  15.02.2023     | 0.0.3   |  Funktion des Spiels funktioniert halbwegs,  Franken (Geld) wird angezeigt, anzahl Leben ist zu sehen und Random "Wort" wird generiet, welches erraten werden kann. Login für Administrationsbereich                                                         |
 | 22.02.2023      | 0.0.4   |  Starseite erstellt, Design für alle Seiten gemacht                                            |
-|       | 0.0.5   |                                                              |
+| 23.02.2023      | 0.0.5   |  LoginFilter erstellt, SessionID wird beim Ausloggen gelöscht und zu Login.xhtml geleitet.                                |
 |       | 0.0.6   |                                                              |
 |       | 1.0.0   |                                                              |
 
