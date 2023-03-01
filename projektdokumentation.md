@@ -107,16 +107,16 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1.1  |       |          |        |
-| 3.2.2 |       |          |        |
-| 4.3.3|       |          |        |
-| 5.4.4  |       |          |        |
-| 8.5.5 |       |          |        |
-| 6.6.6  |       |          |        |
-| 7.7.7  |       |          |        |
-| 13.8.8 |       |          |        |
-| 14.9.9  |       |          |        |
-| 15.10.10  |       |          |        |
+| 1.1.1  |01.03.2023       |          |  Nedim Kaba      |
+| 3.2.2 | 01.03.2023      |          |  Nedim Kaba      |
+| 4.3.3| 01.03.2023      |          |   Nedim Kaba     |
+| 5.4.4  |  01.03.2023     |          | Nedim Kaba       |
+| 8.5.5 |   01.03.2023    |          |  Nedim Kaba      |
+| 6.6.6  |  01.03.2023     |          | Nedim Kaba       |
+| 7.7.7  |  01.03.2023     |          | Nedim Kaba       |
+| 13.8.8 |  01.03.2023     |          | Nedim Kaba       |
+| 14.9.9  |  01.03.2023     |          | Nedim Kaba       |
+| 15.10.10  | 01.03.2023      |          | Nedim Kaba       |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
