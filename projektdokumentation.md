@@ -9,8 +9,7 @@ Kaba
 |  15.02.2023     | 0.0.3   |  Funktion des Spiels funktioniert halbwegs,  Franken (Geld) wird angezeigt, anzahl Leben ist zu sehen und Random "Wort" wird generiet, welches erraten werden kann. Login für Administrationsbereich                                                         |
 | 22.02.2023      | 0.0.4   |  Starseite erstellt, Design für alle Seiten gemacht                                            |
 | 23.02.2023      | 0.0.5   |  LoginFilter erstellt, SessionID wird beim Ausloggen gelöscht und zu Login.xhtml geleitet.                                |
-| 27.02.2023      | 0.0.6   |  Spiel verbessert, zwei Buchstaben werden angezeigt, Geldbetrag wird bei richtigem erraten nicht mehr zurückgesetzt, Name und Franken werden in der Highscoreliste ausgegeben.                                                            |
-|       | 1.0.0   |                                                              |
+| 27.02.2023      | 1.0.0   |  Spiel verbessert, zwei Buchstaben werden angezeigt, Geldbetrag wird bei richtigem erraten nicht mehr zurückgesetzt, Name und Franken werden in der Highscoreliste ausgegeben.                                                            |
 
 # 0 Ihr Projekt
 
