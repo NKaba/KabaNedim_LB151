@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html">
+    <h:head>
+      <title>Wort-Ratespiel</title>
+      
+      <style>
+            /* Allgemeine Styles */
+            * {
+                box-sizing: border-box;
+            }
+
+            body {
+                margin: 0;
+                font-family: Arial, sans-serif;
+                font-size: 16px;
+                line-height: 1.5;
+                background-color: #f2f2f2;
+            }
+
+            /* Styles für das Label */
+            label {
+                display: block;
+                font-weight: bold;
+                margin-bottom: 10px;
+            }
+            
+            /* Styles für den Input */
+            input[type=text] {
+                border: 1px solid #ccc;
+                padding: 8px;
+                font-size: 16px;
+                width: 100%;
+                border-radius: 4px;
+                margin-bottom: 20px;
+            }
+
+            /* Styles für den Button */
+            .myButton {
+                display: inline-block;
+                border-radius: 4px;
+                background-color: #4CAF50;
+                border: none;
+                color: #FFFFFF;
+                text-align: center;
+                font-size: 16px;
+                padding: 10px 20px;
+                transition: all 0.5s;
+                cursor: pointer;
+            }
+
+            .myButton:hover {
+                background-color: #3e8e41;
+            }
+        </style>
+        
+   </h:head>
+   <h:body>
+      <h:form>
+          <div style="max-width: 500px; margin: 0 auto;">
+         <h2 style="text-align: center; margin-top: 50px;">Glücksrad</h2>
+         <h4 style="text-align: center; margin-top: 50px;">Errate Redewendungen</h4>
+         <h:outputText value="Das Wort: #{game.word}" /><br />
+         <h:outputText value="Leben: #{game.lives}" /><br />
+         <h:outputText value="Franken: #{game.coins}" /><br />
+         <h:inputText value="#{game.guess}" /><br />
+         <h:commandButton value="Raten" action="#{game.makeGuess}" styleClass="myButton"/>
+         <h:button value="Admin Übersicht" outcome="adminuebersicht.xhtml" styleClass="myButton"/>
+            <h:button value="Highscoreliste" outcome="highscoreliste.xhtml" styleClass="myButton"/><br />
+                                    
+         <h4 style="text-align: center; margin-top: 50px;">Kaufe Vokale für 100 Franken</h4>
+         <table style="border-collapse: collapse;">
+             
+             
+  <tr>
+    <td style="border: 2px solid black; padding: 10px;">A</td>
+    <td style="border: 2px solid black; padding: 10px;">E</td>
+    <td style="border: 2px solid black; padding: 10px;">I</td>
+    <td style="border: 2px solid black; padding: 10px;">O</td>
+    <td style="border: 2px solid black; padding: 10px;">U</td>
+  </tr>
+</table>
+         <p>#{makeGuess.message}</p>
+         <p>#{game.message}</p>
+         </div>
+      </h:form>
+   </h:body>
+</html>

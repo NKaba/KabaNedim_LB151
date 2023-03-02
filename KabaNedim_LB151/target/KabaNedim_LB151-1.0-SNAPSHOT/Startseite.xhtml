@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/XHtml.xhtml to edit this template
+-->
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html">
+   <h:head>  
+            <title>Glücksrad</title>
+        <style>
+            /* Allgemeine Styles */
+            * {
+                box-sizing: border-box;
+            }
+
+            body {
+                margin: 0;
+                font-family: Arial, sans-serif;
+                font-size: 16px;
+                line-height: 1.5;
+                background-color: #f2f2f2;
+            }
+
+            /* Styles für das Label */
+            label {
+                display: block;
+                font-weight: bold;
+                margin-bottom: 10px;
+            }
+            
+       
+
+            /* Styles für den Button */
+            .myButton {
+                display: inline-block;
+                border-radius: 200px;
+                background-color: #4CAF50;
+                border: none;
+                color: #FFFFFF;
+                text-align: center;
+                font-size: 16px;
+                padding: 40px 70px;
+                transition: all 0.5s;
+                cursor: pointer;
+            }
+
+            .myButton:hover {
+                background-color: #3e8e41;
+            }
+        </style>
+    </h:head>
+    <h:body>
+        <h:form>
+            <div style="max-width: 700px; margin: 0 auto;">
+                <h2 style="text-align: center; margin-top: 50px;">Willkommen im Glücksrad Spiel!</h2>
+                  <h:button value="Spielen" outcome="NameEingeben.xhtml" styleClass="myButton" />
+                  <h:button value="Adminübersicht" outcome="login.xhtml" styleClass="myButton" />
+                  <h:button value="Highscoreliste" outcome="highscoreliste.xhtml" styleClass="myButton" />
+            </div>
+        </h:form>
+    </h:body>
+</html>
