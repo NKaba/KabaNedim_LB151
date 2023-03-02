@@ -44,7 +44,7 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1  | Muss                | Funktional     | Als ein Administrator möchte ich mich mit Benutzername und Passwort anmelden, damit ich Zugriff auf die Administrationsoberfläche habe.|
+| 1  | Muss                | Funktional     | Als ein Administrator möchte ich mich mit Email und Passwort anmelden, damit ich Zugriff auf die Administrationsoberfläche habe.|
 | 2    | Kann                | Funktional     | Als ein Administrator möchte ich in der Lage sein, Phrasen und Rätselwörter hinzuzufügen, damit ich sie bearbeiten und löschen kann.|
 | 3    | Muss                | Funktional     | Als ein Administrator möchte ich Kategorien erstellen und jedes Wort oder jede Frage einer Kategorie zuweisen können, damit ich die Inhalte der App strukturieren kann. |
 | 4    | Muss                | Funktional     | Als ein Administrator möchte ich einzelne Einträge in der Highscore-Liste entfernen können, damit ich Übersicht habe. |
@@ -92,15 +92,15 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 
 | User Story | Datum | Beschreibung |
 | ---------- | ----- | ------------ |
-| 1       |  15.02.2023     |              |
-| 3       | 15.02.2023      |              |
-| 5       | 15.02.2023      |              |
-| 6       | 15.02.2023      |              |
-| 7       |  15.02.2023     |              |
-| 15       |22.02.2023       |              |
-| 13        | 23.02.2023      |              |
-| 8        | 27.02.2023      |              |
-| 14       | 27.02.2023      |              |
+| 1       |  15.02.2023     |   Login für Administration (Email und Passwort), Passwortabfrage.           |
+| 3       | 15.02.2023      |   Kategorien als Admin erstellen           |
+| 5       | 15.02.2023      |    Name wird eingegeben (NameEingeben.xhtml) und wird in der Highscore-Liste mit Geldbetrag ausgegeben.           |
+| 6       | 15.02.2023      |   Benutzer kann beim Spielen Kontostand zu jeder Zeit sehen.            |
+| 7       |  15.02.2023     |    Benutzer kann beim Spielen Lebenspunkte zu jeder Zeit sehen.           |
+| 15       |22.02.2023       |    Startseite erstellen, mit 3 Buttons (Spielen, Adminübersicht und Highscoreliste).          |
+| 13        | 23.02.2023      |    Admin meldet sich ab, nachdem er sich angemeldet hat, Admin wird auf der Login Seite weitergeleitet und nicht auf der Adminuebersicht.xhtml Seite, egal was er macht, er wird zuerst nach Passwort und Email befragt. (Sicherheitsaspekte)         |
+| 8        | 27.02.2023      |   Ergebnis von gewählter Antwort wird angezeigt, indem bei Falscher Antwort Lebenspunkt abgezogen wird und bei richtige Antwort +50 Franken dazu kommen.           |
+| 14       | 27.02.2023      |  Benutzer kann für 100 Franken Vokal kaufen, Vokale können nicht eingegeben werden, ohne das sie gekauft werden.            |
 
 
 # 7 Projektdokumentation
