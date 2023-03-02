@@ -99,6 +99,7 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 | 7       |  15.02.2023     |    Benutzer kann beim Spielen Lebenspunkte zu jeder Zeit sehen.           |
 | 15       |22.02.2023       |    Startseite erstellen, mit 3 Buttons (Spielen, Adminübersicht und Highscoreliste).          |
 | 13        | 23.02.2023      |    Admin meldet sich ab, nachdem er sich angemeldet hat, Admin wird auf der Login Seite weitergeleitet und nicht auf der Adminuebersicht.xhtml Seite, egal was er macht, er wird zuerst nach Passwort und Email befragt. (Sicherheitsaspekte)         |
+| 4       |  23.02.2023     |   Admin kann Highscore Eintrag mit dem Namen "xxx" zum Entfernen      |
 | 8        | 27.02.2023      |   Ergebnis von gewählter Antwort wird angezeigt, indem bei Falscher Antwort Lebenspunkt abgezogen wird und bei richtige Antwort +50 Franken dazu kommen.           |
 | 14       | 27.02.2023      |  Benutzer kann für 100 Franken Vokal kaufen, Vokale können nicht eingegeben werden, ohne das sie gekauft werden.            |
 
@@ -107,8 +108,16 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1    | ja / nein |                                           |
-| ...  |           |                                           |
+| 1    | ja |                                           |
+| 3  |     Nein|                                           |
+| 5  |  ja         |                                           |
+| 6  |    ja       |                                           |
+| 7  |     ja      |                                           |
+| 15  |      ja     |                                           |
+| 13  |     ja      |                                           |
+| 4 |     Nein     |                                           |
+| 8  |       ja    |                                           |
+| 14  |     ja      |                                           |
 
 # 8 Testprotokoll
 
