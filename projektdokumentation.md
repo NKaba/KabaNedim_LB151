@@ -99,10 +99,9 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 | 7       |  15.02.2023     |              |
 | 15       |22.02.2023       |              |
 | 13        | 23.02.2023      |              |
+| 8        | 27.02.2023      |              |
 | 14       | 27.02.2023      |              |
-| ...        |       |              |
-| ...        |       |              |
-| ...        |       |              |
+
 
 # 7 Projektdokumentation
 
