@@ -17,7 +17,6 @@ Ich werde eine Glücksrad-Applikation erstellen, bei der der Benutzer Wörter od
 
 # 1 Analyse
 
-✍️ Beschreiben Sie, auf welchem Tier Sie die dynamischen Elemente der Anwendung unterbringen möchten:
 
 * Tier 1 (Presentation): das Glücksrad, die Rate-Wand, die Anzeige des Kontostands, die Lebenspunkte, sowie die Highscore-Liste Darstellen. 
 * Tier 2 (Webserver): Erarbeitung von Anfragen und Übertragung von Daten zwischen Endgerät und Application Server.
@@ -37,9 +36,7 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 
 # 4.1 User Stories
 
-✍️ Formulieren Sie klare Anforderungen in der Form von User Stories (*„als … möchte ich … damit …“*) und zu jeder Anforderung mindestens einen dazugehörigen Testfall (in Kapitel 4.2). 
 
-✍️ Formulieren Sie weitere, eigene Anforderungen und Testfälle, wie Sie Ihre Applikation erweitern möchten. Geben Sie diesen statt einer Nummer einen Buchstaben (`A`, `B`, etc.)
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
@@ -59,7 +56,6 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 | 14   | Muss                | Funktional     | Als ein Benutzer möchte ich Vokale kaufen können, damit ich das Wort einfacher erraten kann (Vokale kann man nicht eingeben ohne sie zu kaufen) |
 | 15   |   Muss              |Funktional      | Als ein Entwickler möchte ich eine Startseite erstellen, damit der Benutzer eine gute Übersicht über die Applikation hat und frei auswählen kann was er tun möchte. (Erweiterung)|
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
 # 4.2 Testfälle
 
@@ -77,8 +73,6 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 | 15.10  |        Benutzer muss Spiel starten    | Der Benutzer hat Spiel gestartet    |  Startseite wird geöffnet, mit 3 Buttons (Spiel, Adminübersicht und Highscore)       |
 
 
-
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 # 5 Prototyp
 
@@ -142,10 +136,3 @@ Alle Testfälle konnten erfolgreich durchgeführt werden, bis auf Nr. 3 und Nr. 
 
 # 9 `README.md`
 
-✍️ Beschreiben Sie ausführlich in einer README.md, wie Ihre Applikation gestartet und ausgeführt wird. Legen Sie eine geeignete Möglichkeit (Skript, Export, …) bei, Ihre Datenbank wiederherzustellen.
-
-# 10 Allgemeines
-
-- [ ] Ich habe die Rechtschreibung überprüft
-- [ ] Ich habe überprüft, dass die Nummerierung von Testfällen und User Stories übereinstimmen
-- [ ] Ich habe alle mit ✍️ markierten Teile ersetzt
