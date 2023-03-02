@@ -108,16 +108,16 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1    | ja |                                           |
-| 3  |     Nein|                                           |
-| 5  |  ja         |                                           |
-| 6  |    ja       |                                           |
-| 7  |     ja      |                                           |
-| 15  |      ja     |                                           |
-| 13  |     ja      |                                           |
-| 4 |     Nein     |                                           |
-| 8  |       ja    |                                           |
-| 14  |     ja      |                                           |
+| 1    | ja |    login.java & login.xhtml                                       |
+| 3  |     Nein|           Nicht geschafft                                |
+| 4  |     Nein|           Nicht geschafft                                |
+| 5  |  ja         |       NameEingeben.xhtml & highscoreliste.xhtml                                    |
+| 6  |    ja       |        Game.java & Spiel.xhtml                                   |
+| 7  |     ja      |      Game.java & Spiel.xhtml                                           |
+| 15  |      ja     |         Startseite.xhtml                                  |
+| 13  |     ja      |        loginFilter.java & login.xhtml                                 |
+| 8  |       ja    |           Game.java & Spiel.xhtml                                |
+| 14  |     ja      |                  Game.java & Spiel.xhtml                           |
 
 # 8 Testprotokoll
 
