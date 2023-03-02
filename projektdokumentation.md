@@ -88,7 +88,6 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 
 # 6 Implementation
 
-✍️ Halten Sie fest, wann Sie welche User Story bearbeitet haben
 
 | User Story | Datum | Beschreibung |
 | ---------- | ----- | ------------ |
@@ -123,6 +122,10 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 
 
 
+https://user-images.githubusercontent.com/69577050/222453662-139fc6cb-cf74-44a7-acd7-134e548c0f7f.mp4
+
+
+
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
 | 1.1.1  |01.03.2023       |   OK       |  Nedim Kaba      |
@@ -136,7 +139,7 @@ Verwendung der ADO.NET-Bibliothek, die in ASP.NET enthalten ist, um direkt mit d
 | 14.9.9  |  01.03.2023     |         OK | Nedim Kaba       |
 | 15.10.10  | 01.03.2023      |         OK | Nedim Kaba       |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Alle Testfälle konnten erfolgreich durchgeführt werden, bis auf Nr. 3 und Nr. 4. Admin kann keine Kategorien erstellen und auch nicht den Name aus der Highscoreliste entfernen. 
 
 # 9 `README.md`
 
