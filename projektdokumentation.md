@@ -1,4 +1,4 @@
-# Projekt-Dokumentation --> Glücksradspiel
+# Projekt-Dokumentation --> Glücksrad Spiel
 
 Kaba
 
